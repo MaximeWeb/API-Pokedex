@@ -5,11 +5,6 @@
 
 > Découvrir les pokemons a travers le Pokedex
 
-## Install
-
-```sh
-npm install
-```
 
 ## Author
 
